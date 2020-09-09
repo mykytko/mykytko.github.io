@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to mykytko.github.io
+
+This is my personal website. Here you can find my contacts, email, general autobiographical information and my portfolio.
+
+My name is Mykyta Diachyna. I am a Java developer from Ukraine. Currently I'm studying at National University of Ukraine "Kyiv Polytechnic Institute". I am a diligent student and I like programming very much. I hope I'll be able to find a good job as a Java developer.
 
 You can use the [editor on GitHub](https://github.com/mykytko/mykytko.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
